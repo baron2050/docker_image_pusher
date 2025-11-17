@@ -1,2 +1,2 @@
---platform=linux/arm/v7 openlistteam/openlist
-ghcr.io/krau/saveany-bot
+--platform=linux/arm64 openlistteam/openlist
+--platform=linux/arm64 ghcr.io/krau/saveany-bot
