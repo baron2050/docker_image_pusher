@@ -1,2 +1,3 @@
 --platform=linux/arm64 openlistteam/openlist
 --platform=linux/arm64 ghcr.io/krau/saveany-bot
+--platform=linux/arm64 yuntian123456/daily_stock_analysis
