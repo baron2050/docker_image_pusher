@@ -1,3 +1,2 @@
 --platform=linux/arm64 openlistteam/openlist
---platform=linux/amd64 vllm/vllm-openai:v0.19.1
---platform=linux/amd64 xprobe/xinference:v2.5.0
+--platform=linux/arm64 zhulinsen/daily_stock_analysis:v3.16.0
